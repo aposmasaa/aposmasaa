@@ -10,4 +10,4 @@ I am AposMasaa, and I am here to make beautiful contributions to code all over
 - ⚡ Fun fact: ...
 ***
 I am currently working on my Python skills and web development using the Django framework 
-I am leerning
+I am learning Laravel
