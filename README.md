@@ -1,13 +1,3 @@
-## Hi there 👋
-I am AposMasaa, and I am here to make beautiful contributions to code all over
-***
-- 🔭 I’m currently working on an ELECTRONIC HEALTH MONITORING SYSTEM web application with Django Backend
-- 🌱 I’m currently learning Django Backend development with HTML AND CSS for frontend
-- 👯 I’m looking to collaborate on open-source projects across GitHub and Linux platforms
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-***
-I am currently working on my Python skills and web development using the Django framework 
-I am learning Laravel
+## Hi,
+### I am Alphonce,
+### A software developer
