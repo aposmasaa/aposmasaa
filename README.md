@@ -5,7 +5,7 @@
 ### A software developer  
 
 </div>
-Ask me about:
-* Django
-* Python
-* HTML and CSS
+**Ask me about:**
+- Django  
+- Python  
+- HTML and CSS  
